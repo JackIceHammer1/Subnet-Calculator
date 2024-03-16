@@ -1,2 +1,2 @@
 # Subnet-Calculator
-Basic Python Subnet Calculator Project
+Basic Python Subnet Calculator Project.
